@@ -37,6 +37,9 @@ Build out Python project scaffold:
 
 ## Command-Line Tools
 
+![image](https://user-images.githubusercontent.com/63174713/197016803-83c965be-2686-4dfc-a739-502708a60a9b.png)
+
+
 ## Microservices
 
 ## Containerized Continuous Delivery
