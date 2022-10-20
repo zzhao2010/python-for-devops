@@ -1,4 +1,5 @@
 [![Test Multiple Python Versions](https://github.com/zzhao2010/python-for-devops/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zzhao2010/python-for-devops/actions/workflows/main.yml)
+
 # python-for-devops
 
 From zero repository for doing Python DevOps work
@@ -37,8 +38,11 @@ Build out Python project scaffold:
 
 ## Command-Line Tools
 
+Command-Line tool provide a simple way to try different combinations of your code before building containerized microservice.
+
 ![image](https://user-images.githubusercontent.com/63174713/197016803-83c965be-2686-4dfc-a739-502708a60a9b.png)
 
+[Python Fire](https://github.com/google/python-fire)
 
 ## Microservices
 
