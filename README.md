@@ -1,3 +1,4 @@
+[![Test Multiple Python Versions](https://github.com/zzhao2010/python-for-devops/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zzhao2010/python-for-devops/actions/workflows/main.yml)
 # python-for-devops
 
 From zero repository for doing Python DevOps work
