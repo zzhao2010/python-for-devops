@@ -15,10 +15,10 @@ From zero repository for doing Python DevOps work
 
 Build out Python project scaffold:
 
-- Makefile
-- requirements.txt
-- test_lib.py
-- python_lib
+- [Makefile](https://github.com/zzhao2010/python-for-devops/blob/main/Makefile)
+- [requirements.txt](https://github.com/zzhao2010/python-for-devops/blob/main/requirements.txt)
+- [test_lib.py](https://github.com/zzhao2010/python-for-devops/blob/main/test_devopslib.py)
+- [python_lib](https://github.com/zzhao2010/python-for-devops/tree/main/devopslib)
 - Dockerfile
 - command-line tool
 - Microservice
@@ -34,10 +34,6 @@ Build out Python project scaffold:
 5. Define the [Makefile](https://github.com/zzhao2010/python-for-devops/blob/main/Makefile) and then run `make install`
 
 6. Find the required libs with version and pin them in the [requirements](https://github.com/zzhao2010/python-for-devops/blob/main/requirements.txt)
-
-### AWS CloudShell
-
-### AWS Cloud9
 
 ## Command-Line Tools
 
