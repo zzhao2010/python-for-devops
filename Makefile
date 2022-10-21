@@ -11,4 +11,7 @@ test:
 format:
 	black *.py devopslib/*.py
 
+post-install:
+	python -m textblob.download_corpora
+
 all: install lint test format

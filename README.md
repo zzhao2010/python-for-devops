@@ -47,3 +47,5 @@ Command-Line tool provide a simple way to try different combinations of your cod
 ## Microservices
 
 ## Containerized Continuous Delivery
+
+`docker run -p 127.0.0.1:8050:8050 23ae08944771`
